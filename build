@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir /wordpress1
 mkdir -p /wordpress1/mysql/ && mkdir -p /wordpress1/wordpress/ && mkdir -p /wordpress1/phpfpm/app && mkdir -p /wordpress1/phpfpm/config && mkdir -p /wordpress1/nginx/config && cd .
 z=`pwd`
